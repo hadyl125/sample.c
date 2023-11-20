@@ -1,1 +1,1 @@
-# sample.c
+# this a sample file
